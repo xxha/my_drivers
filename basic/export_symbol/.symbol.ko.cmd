@@ -1,0 +1,1 @@
+cmd_/home/xxha/my_project/my_drivers/basic/export_symbol/symbol.ko := ld -r -m elf_i386 -T /usr/src/linux-headers-3.11.0-15-generic/scripts/module-common.lds --build-id  -o /home/xxha/my_project/my_drivers/basic/export_symbol/symbol.ko /home/xxha/my_project/my_drivers/basic/export_symbol/symbol.o /home/xxha/my_project/my_drivers/basic/export_symbol/symbol.mod.o
