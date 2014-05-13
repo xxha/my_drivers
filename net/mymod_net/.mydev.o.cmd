@@ -1,0 +1,1 @@
+cmd_/home/xxha/my_project/sclib/linux/net/mymod_net/mydev.o := ld -m elf_i386   -r -o /home/xxha/my_project/sclib/linux/net/mymod_net/mydev.o /home/xxha/my_project/sclib/linux/net/mymod_net/mymod_net.o 

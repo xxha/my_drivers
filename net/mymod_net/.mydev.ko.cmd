@@ -1,0 +1,1 @@
+cmd_/home/xxha/my_project/sclib/linux/net/mymod_net/mydev.ko := ld -r -m elf_i386 -T /usr/src/linux-headers-3.11.0-15-generic/scripts/module-common.lds --build-id  -o /home/xxha/my_project/sclib/linux/net/mymod_net/mydev.ko /home/xxha/my_project/sclib/linux/net/mymod_net/mydev.o /home/xxha/my_project/sclib/linux/net/mymod_net/mydev.mod.o
